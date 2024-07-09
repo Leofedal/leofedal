@@ -1,16 +1,17 @@
-## Hi there 👋
+Welcome to Leonard Fedal's Portfolio! 👋
+Who am I?
+I'm Leonard, a passionate technology enthusiast and junior web developer based in Geneva, Switzerland. Transitioning from diverse fields into tech, I leverage my unique experiences to foster learning and innovation in every project I undertake.
 
-<!--
-**Leofedal/leofedal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I Do
+🌐 Web Development: I specialize in creating responsive and user-friendly websites. My technical stack includes:
 
-Here are some ideas to get you started:
+HTML5, CSS3, JavaScript
+React, Node.js, Express
+MySQL
+🔧 Project Management: Expertise in leading teams and managing projects in dynamic environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Journey
+Tech Transition: Embraced technology in 2024 by graduating from a full-stack developer bootcamp at Wild Code School.
+Get in Touch
+📫 How to reach me: leonardfedal@gmail.com
+
